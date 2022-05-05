@@ -3,6 +3,8 @@
 #Sanjiban Sekhar Roy, Y-h. Taguchi
 #bioRxiv 2022.04.29.490081; doi: https://doi.org/10.1101/2022.04.29.490081
 
+library(GenomicFeatures)
+
 #GSE24850
 #Current directory should include the following eleven files
 #GSM611267_sa.rep1.bed.gz     GSM612980_input.rep2.bed.gz
